@@ -19,8 +19,6 @@ Aplikacja jest skierowana do:
  Możliwość pracy w językach: HTML, CSS, JavaScript.
  Podgląd wyników w czasie rzeczywistym.
  Wbudowany linter i podpowiedzi dotyczące błędów.
- 
- 
 3.2 System Zadań
  Struktura podzielona na moduły tematyczne (np. podstawy JS, React, manipulacja DOM).
  Zadania o różnym poziomie trudności.
@@ -28,21 +26,15 @@ Aplikacja jest skierowana do:
  Możliwość porównywania własnego rozwiązania z sugerowanym.
  Wykorzystanie API Sandbox do analizy kodu i generowania dynamicznych wskazówek.
  Podpowiedzi w przypadku błędnych rozwiązań generowane na podstawie AI.
- 
- 
 3.3 System Użytkownika
  Rejestracja i logowanie (Google/GitHub/email).
  Zapisywanie postępów użytkownika.
  Historia rozwiązań i możliwość powrotu do wcześniejszych zadań.
  Ranking użytkowników i zdobywanie odznak za ukończone moduły.
- 
- 
 3.4 Materiały Dodatkowe
  Zintegrowane notatki i dokumentacja do nauki.
  Wbudowane tutoriale wideo dla wybranych tematów.
  Linki do dodatkowych zasobów.
- 
- 
 3.5 Tryb Pracy Grupowej (Opcjonalne)
  Możliwość pracy nad zadaniami w parach (pair programming).
  Możliwość oceniania i komentowania rozwiązań innych użytkowników.
